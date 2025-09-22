@@ -1,0 +1,16 @@
+{
+  "name": "html-css-basics-lesson",
+  "version": "1.0.0",
+  "description": "HTML/CSS Basics Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["html", "css", "learning", "education"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^22.10.0"
+  }
+}
